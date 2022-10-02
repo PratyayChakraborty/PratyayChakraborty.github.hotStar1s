@@ -1,4 +1,4 @@
-# Lately(https://lately.netlify.app/)
+# Licious(https://tangerine-cheesecake-d477db.netlify.app/)
 
 
 <img align="right" alt="Coding" width="400" src="./HS.jpg">
